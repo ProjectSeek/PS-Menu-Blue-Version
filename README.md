@@ -1,2 +1,2 @@
 # PS-Menu-Blue-Version
-![repository-open-graph-template (1) (1)](https://user-images.githubusercontent.com/112904827/188513485-3a76b5b3-6945-41d9-b62f-6df9d27fd812.png)
+![Screenshot 2022-09-05 221815](https://user-images.githubusercontent.com/112904827/188513517-972c798e-3ae5-44f9-8e28-c355e03ef57e.png)
